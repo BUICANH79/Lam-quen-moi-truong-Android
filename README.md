@@ -11,7 +11,7 @@
   
    <li><a href="https://github.com/taochangbang123/MenuExampleActivity"> Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android </a></li>
  
-   <li><a href=" https://github.com/taochangbang123/ActivityA">  ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1) </a></li>
+   <li><a href="https://github.com/taochangbang123/ActivityA">  ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1) </a></li>
    
    <li><a href="https://github.com/taochangbang123/ImplicitIntentActivity"> ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2) </a></li>
    
