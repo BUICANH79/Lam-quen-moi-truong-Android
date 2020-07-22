@@ -1,14 +1,17 @@
 # PHỤ LỤC THỰC HÀNH MÔN HỌC ANDROID
 <h2> ngày22-07-2020
   
- **1.Làm quen  môi trường Android Studio và ứng dụng Android**
+ ## 1.Làm quen  môi trường Android Studio và ứng dụng Android
  
 <li><a href="https://github.com/taochangbang123/hellowword"> CODE  </a></li>
 
 <li><a href="https://ngocminhtran.com/2018/06/28/lap-trinh-android-dung-android-studio-3-x/">  BÀI HỌC  </a></li>
-**2.Sự kiện và xử lý sự kiện trong Android
 
-  <li><a href="https://github.com/taochangbang123/baitapthietlaptt">   </a></li>
+## 2.Sự kiện và xử lý sự kiện trong Android
+
+      <li><a href="https://github.com/taochangbang123/baitapthietlaptt">  CODE </a></li>
+      <li><a href="
+  
   
   <li><a href="https://github.com/taochangbang123/btsukien"> Sự kiện và xử lý sự kiện trong Android 2  </a></li>
   
