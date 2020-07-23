@@ -86,9 +86,7 @@
   
   
   ![image](https://github.com/taochangbang123/Lam-quen-moi-truong-Android/blob/master/jj.jpg?raw=true)
-  
-  
-  ![image](https://github.com/taochangbang123/Lam-quen-moi-truong-Android/blob/master/t%E1%BA%A3i%20xu%E1%BB%91ng.png?raw=true)
+ ![image](https://github.com/taochangbang123/Lam-quen-moi-truong-Android/blob/master/t%E1%BA%A3i%20xu%E1%BB%91ng.png?raw=true)
   
   
   
