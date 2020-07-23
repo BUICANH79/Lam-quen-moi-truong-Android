@@ -31,34 +31,37 @@
   
    <li><a href="https://github.com/taochangbang123/FragmentExample">  Fragments trong Android </a></li>
    
-   li><a href="https://ngocminhtran.com/2018/10/17/fragments-trong-android/"> BÀI HỌC </a></li> 
+   <li><a href="https://ngocminhtran.com/2018/10/17/fragments-trong-android/"> BÀI HỌC </a></li> 
    
    ## 6. Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android
    
    <li><a href="https://github.com/taochangbang123/MenuExampleActivity">  CODE  </a></li>
    
-   li><a href="https://ngocminhtran.com/2018/10/27/tao-va-quan-ly-thuc-don-tuy-chon-overflow-menus-trong-android/"> BÀI HỌC </a></li>
+   <li><a href="https://ngocminhtran.com/2018/10/27/tao-va-quan-ly-thuc-don-tuy-chon-overflow-menus-trong-android/"> BÀI HỌC </a></li>
    
   ## 7. ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1)
    <li><a href="https://github.com/taochangbang123/ActivityA">  CODE  </a></li>
    
-   li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-1/"> BÀI HỌC </a></li>
+   <li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-1/"> BÀI HỌC </a></li>
    
   ## 8. ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2) 
    <li><a href="https://github.com/taochangbang123/ImplicitIntentActivity">  CODE  </a></li>
    
-  https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-2/"> BÀI HỌC </a></li>
+   <li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-2/"> BÀI HỌC </a></li>
    
    ## 9. ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)
    
    <li><a href="https://github.com/taochangbang123/SendBroadcastActivity">  CODE </a></li>
    
-   li><a href=" https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-3/"> BÀI HỌC </a></li>
+   <li><a href=" https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-3/"> BÀI HỌC </a></li>
    
    ## 10. Lập trình cơ sở dữ liệu trong Android
+   
    <li><a href="https://github.com/taochangbang123/SQLiteDemoApplicationActivity1">  CODE </a></li>
    
-   li><a href="https://ngocminhtran.com/2018/11/14/lap-trinh-co-so-du-lieu-trong-android-phan-1/"> BÀI HỌC </a></li>
+   <li><a href="https://ngocminhtran.com/2018/11/14/lap-trinh-co-so-du-lieu-trong-android-phan-1/"> BÀI HỌC </a></li>
+   
+   ## 11.Bài tập về Android
    
    <li><a href="https://github.com/taochangbang123/bangtinh">  Tạo máy tính đơn giản  </a></li>
-  
+
