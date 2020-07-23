@@ -50,13 +50,13 @@
   ## 9. ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2) 
    <li><a href="https://github.com/taochangbang123/ImplicitIntentActivity">  CODE  </a></li>
    
-   <li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-2/"> BÀI HỌC </a></li>
+  <li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-2/"> BÀI HỌC </a></li>
    
    ## 10. ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)
    
    <li><a href="https://github.com/taochangbang123/SendBroadcastActivity">  CODE </a></li>
    
-   <li><a href=" https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-3/"> BÀI HỌC </a></li>
+   <li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-3/"> BÀI HỌC </a></li>
    
    ## 11. Lập trình cơ sở dữ liệu trong Android
    
@@ -72,10 +72,17 @@
    
    <li><a href="https://github.com/taochangbang123/thongtindangky"> Thông tin cá nhân</a></li>
 
-Ngày 23/07/2020
+**Ngày 23/07/2020
 
   *Nha Trang Copyright© B.C
+  
   D.C 0966669971
+  
+  ![image](https://github.com/taochangbang123/Lam-quen-moi-truong-Android/blob/master/Logo-1.jpg)
+  
+  ![image](https://github.com/taochangbang123/Lam-quen-moi-truong-Android/blob/master/chu-ky-b.canh.jpeg)
+  
+  
   
   
  
