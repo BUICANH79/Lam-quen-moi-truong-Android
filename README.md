@@ -7,7 +7,7 @@
 
    <li><a href="https://ngocminhtran.com/2018/06/28/lap-trinh-android-dung-android-studio-3-x/">  BÀI HỌC  </a></li>
 
-##2. Sự kiện và xử lý sự kiện trong Android
+ ## 2.Sự kiện và xử lý sự kiện trong Android
 
    <li><a href="https://github.com/taochangbang123/btsukien"> CODE </a></li>
    
