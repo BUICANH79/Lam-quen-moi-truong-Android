@@ -38,9 +38,9 @@
    <li><a href="https://ngocminhtran.com/2018/10/27/tao-va-quan-ly-thuc-don-tuy-chon-overflow-menus-trong-android/"> BÀI HỌC </a></li>
    
    ## 7. Thiết lập và nhận thông tin từ các Android views
-   <li><a href=" <li><a href="https://github.com/taochangbang123/baitapthietlaptt">  CODE </a></li>
+   <li><a href="https://github.com/taochangbang123/baitapthietlaptt">  CODE </a></li>
   
-   <li><a href=" https://ngocminhtran.com/2018/09/24/thiet-lap-va-nhan-thong-tin-tu-cac-views/"> BÀI HỌC </a></li> 
+   <li><a href="https://ngocminhtran.com/2018/09/24/thiet-lap-va-nhan-thong-tin-tu-cac-views/"> BÀI HỌC </a></li> 
    
   ## 8. ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1)
    <li><a href="https://github.com/taochangbang123/ActivityA">  CODE  </a></li>
@@ -76,7 +76,7 @@
 
 
 
-                   ### *Ngày 23/07/2020*
+ ### *Ngày 23/07/2020* 
 
  ## *Nha Trang Copyright© B.C*
   
