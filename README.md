@@ -27,7 +27,7 @@
   
   ## 5. Fragments trong Android
   
-   <li><a href="https://github.com/taochangbang123/FragmentExample">  Fragments trong Android </a></li>
+   <li><a href="https://github.com/taochangbang123/FragmentExample">  CODE </a></li>
    
    <li><a href="https://ngocminhtran.com/2018/10/17/fragments-trong-android/"> BÀI HỌC </a></li> 
    
