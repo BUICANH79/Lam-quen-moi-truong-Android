@@ -1,5 +1,5 @@
 # PHỤ LỤC THỰC HÀNH MÔN HỌC ANDROID
-<h2> ngày22-07-2020
+
   
  ## 1. Làm quen  môi trường Android Studio và ứng dụng Android
  
@@ -72,13 +72,17 @@
    
    <li><a href="https://github.com/taochangbang123/thongtindangky"> Thông tin cá nhân</a></li>
 
-**Ngày 23/07/2020
+
+<h2> Ngày 23/07/2020
+
 
   *Nha Trang Copyright© B.C
   
   D.C 0966669971
   
+  
   ![image](https://github.com/taochangbang123/Lam-quen-moi-truong-Android/blob/master/Logo-1.jpg)
+  
   
   ![image](https://github.com/taochangbang123/Lam-quen-moi-truong-Android/blob/master/chu-ky-b.canh.jpeg)
   
