@@ -9,8 +9,6 @@
 
 ## 2. Sự kiện và xử lý sự kiện trong Android
 
-   <li><a href="https://github.com/taochangbang123/baitapthietlaptt">  CODE </a></li>
-   
    <li><a href="https://github.com/taochangbang123/btsukien"> CODE </a></li>
    
    <li><a href="https://ngocminhtran.com/2018/09/24/su-kien-va-xu-ly-su-kien/"> BÀI HỌC </a></li>
@@ -25,7 +23,7 @@
   
    <li><a href="https://github.com/taochangbang123/CommonGesturesActivity">  CODE </a></li>
   
-   li><a href="https://ngocminhtran.com/2018/10/08/phat-hien-cu-chi-nguoi-dung-voi-lop-android-gesture-detector/"> BÀI HỌC </a></li>
+   <li><a href="https://ngocminhtran.com/2018/10/08/phat-hien-cu-chi-nguoi-dung-voi-lop-android-gesture-detector/"> BÀI HỌC </a></li>
   
   ## 5. Fragments trong Android
   
@@ -39,29 +37,45 @@
    
    <li><a href="https://ngocminhtran.com/2018/10/27/tao-va-quan-ly-thuc-don-tuy-chon-overflow-menus-trong-android/"> BÀI HỌC </a></li>
    
-  ## 7. ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1)
+   ## 7. Thiết lập và nhận thông tin từ các Android views
+   <li><a href=" <li><a href="https://github.com/taochangbang123/baitapthietlaptt">  CODE </a></li>
+  
+   <li><a href=" https://ngocminhtran.com/2018/09/24/thiet-lap-va-nhan-thong-tin-tu-cac-views/"> BÀI HỌC </a></li> 
+   
+  ## 8. ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1)
    <li><a href="https://github.com/taochangbang123/ActivityA">  CODE  </a></li>
    
    <li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-1/"> BÀI HỌC </a></li>
    
-  ## 8. ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2) 
+  ## 9. ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2) 
    <li><a href="https://github.com/taochangbang123/ImplicitIntentActivity">  CODE  </a></li>
    
    <li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-2/"> BÀI HỌC </a></li>
    
-   ## 9. ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)
+   ## 10. ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)
    
    <li><a href="https://github.com/taochangbang123/SendBroadcastActivity">  CODE </a></li>
    
    <li><a href=" https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-3/"> BÀI HỌC </a></li>
    
-   ## 10. Lập trình cơ sở dữ liệu trong Android
+   ## 11. Lập trình cơ sở dữ liệu trong Android
    
    <li><a href="https://github.com/taochangbang123/SQLiteDemoApplicationActivity1">  CODE </a></li>
    
    <li><a href="https://ngocminhtran.com/2018/11/14/lap-trinh-co-so-du-lieu-trong-android-phan-1/"> BÀI HỌC </a></li>
    
-   ## 11.Bài tập về Android
+   ## 12.Bài tập về Android tạo máy tính đơn giản
    
    <li><a href="https://github.com/taochangbang123/bangtinh">  Tạo máy tính đơn giản  </a></li>
+   
+   ## 13.Bài tập về xử lý sự kiện
+   
+   <li><a href="https://github.com/taochangbang123/thongtindangky"> Thông tin cá nhân</a></li>
 
+Ngày 23/07/2020
+
+  *Nha Trang Copyright© B.C
+  D.C 0966669971
+  
+  
+ 
