@@ -38,7 +38,7 @@
    <li><a href="https://ngocminhtran.com/2018/10/27/tao-va-quan-ly-thuc-don-tuy-chon-overflow-menus-trong-android/"> BÀI HỌC </a></li>
    
    ## 7. Thiết lập và nhận thông tin từ các Android views
-   <li><a href="https://github.com/taochangbang123/baitapthietlaptt">  CODE </a></li>
+   <li><a href="https://github.com/taochangbang123/baitapthietlaptt1">  CODE </a></li>
   
    <li><a href="https://ngocminhtran.com/2018/09/24/thiet-lap-va-nhan-thong-tin-tu-cac-views/"> BÀI HỌC </a></li> 
    
